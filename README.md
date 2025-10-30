@@ -118,7 +118,7 @@ Sauvegardez avant d'exécuter !
 
 ---
 
-# 🔮 Partie 2 – Les exercices Python (sans correction)
+# 🔮 Partie 2 – Les exercices Python 
 
 Chaque exercice est à écrire dans un fichier différent. Des indices sont donnés.
 
